@@ -5,8 +5,8 @@ This project implements a robust real-time data streaming pipeline using modern 
 The pipeline facilitates seamless ingestion, processing, and storage of streaming data, orchestrated by Apache Airflow for efficient workflow management.
 
 Project Architecture:
+![Data engineering architecture](https://github.com/Heet09/RealTime-Data-Streaming-Using-Apache-Kafka/assets/64312275/ccd294fd-2fe7-4c06-947c-1dd679856281)
 
-![image](https://github.com/Heet09/RealTime-Data-Streaming-Using-Apache-Kafka/assets/64312275/16b9b0ff-7e0b-4cc4-a57b-78f289c1e33a)
 
 
 Key Features
